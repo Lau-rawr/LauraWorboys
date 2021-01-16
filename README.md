@@ -1,12 +1,14 @@
 
-**<p align="center"> --My Personal Website--</p>**
+**<h1 align="center">-- My Personal Website -- </h1>**
 
 
 ## About 
-Shows my projects, with links to deployed websites
-links to pages
-my current skills
-and fun facts!
+* Shows my projects, with links to deployed websites
+* Link to github
+* Current work skills
+* Fun facts!
+
+
 
 ## [Live Website](https://pacificplumeria.github.io/LauraWorboys/)
 
